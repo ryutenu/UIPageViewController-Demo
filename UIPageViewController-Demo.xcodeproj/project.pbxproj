@@ -15,6 +15,7 @@
 		E723DB30276E1DE100FBF3CB /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E723DB2F276E1DE100FBF3CB /* FirstViewController.swift */; };
 		E723DB32276E1E2E00FBF3CB /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E723DB31276E1E2E00FBF3CB /* SecondViewController.swift */; };
 		E723DB34276E1E5F00FBF3CB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E723DB33276E1E5F00FBF3CB /* ThirdViewController.swift */; };
+		E723DB36276E200500FBF3CB /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E723DB35276E200500FBF3CB /* PageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E723DB2F276E1DE100FBF3CB /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		E723DB31276E1E2E00FBF3CB /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		E723DB33276E1E5F00FBF3CB /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		E723DB35276E200500FBF3CB /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				E723DB1B276E1CD100FBF3CB /* AppDelegate.swift */,
 				E723DB1D276E1CD100FBF3CB /* SceneDelegate.swift */,
+				E723DB35276E200500FBF3CB /* PageViewController.swift */,
 				E723DB2F276E1DE100FBF3CB /* FirstViewController.swift */,
 				E723DB31276E1E2E00FBF3CB /* SecondViewController.swift */,
 				E723DB33276E1E5F00FBF3CB /* ThirdViewController.swift */,
@@ -147,6 +150,7 @@
 				E723DB1C276E1CD100FBF3CB /* AppDelegate.swift in Sources */,
 				E723DB1E276E1CD100FBF3CB /* SceneDelegate.swift in Sources */,
 				E723DB32276E1E2E00FBF3CB /* SecondViewController.swift in Sources */,
+				E723DB36276E200500FBF3CB /* PageViewController.swift in Sources */,
 				E723DB34276E1E5F00FBF3CB /* ThirdViewController.swift in Sources */,
 				E723DB30276E1DE100FBF3CB /* FirstViewController.swift in Sources */,
 			);
